@@ -278,6 +278,16 @@ E onde o período entre projetos possa ser visto não apenas como uma pausa, mas
 
 ---
 
+## Protótipo da interface
+
+A experiência visual do **Bench + BenchLab** também está sendo explorada no Figma.
+
+O protótipo representa a visão da experiência e serve como referência visual para a jornada proposta pelo projeto.
+
+**[Acessar protótipo no Figma](https://www.figma.com/design/bmXi2NI5Ocuq7s45dY6Wu6/bench?node-id=0-1&m=dev&t=YmmZMcHKqDiiD6ly-1)**
+
+---
+
 ## Em uma frase
 
 > **O BenchLab transforma períodos de espera em oportunidades de aprendizado, experimentação, colaboração e inovação.**
